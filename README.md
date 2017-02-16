@@ -6,4 +6,4 @@ general study purpose:
   * jQuery (~3.x.x)
   * Bootstrap  (~3.x.x)
   
-test link: [1eye.io/form-test](http://1eye.io/github/login-page)
+test link: [1eye.io/github/login-page](http://1eye.io/github/login-page)
