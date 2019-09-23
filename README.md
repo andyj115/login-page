@@ -8,4 +8,3 @@ general study purpose:
   * CSS
   * PHP as template language (file extension .phtml)
   
-test link: [1eye.io/github/login-page](http://1eye.io/github/login-page)
